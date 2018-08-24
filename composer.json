@@ -1,0 +1,7 @@
+{
+    "name": "never5/what-the-file",
+    "description": "Find out what template file (PHP) is used on the current page.",
+    "homepage"   : "https://wordpress.org/plugins/what-the-file/",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later"
+}
